@@ -8,6 +8,10 @@ ul {
   list-style-type: none;
 }
 
+.header-logo {
+  color: #4d5ae5;
+}
+
 .header-list-link {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 16px;
