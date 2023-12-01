@@ -1,0 +1,58 @@
+body {
+  background-color: #fff;
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Roboto;
+}
+
+li {
+  list-style-type: none;
+}
+
+.header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.header-adress {
+}
+.hero {
+}
+.hero-title {
+}
+.hero-button {
+}
+.features {
+}
+.features-title {
+}
+.features-list {
+}
+.features-small-title {
+}
+.features-text {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-small-title {
+}
+.team-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-small-title {
+}
+.portfolio-text {
+}
+.footer {
+}
+.footer-logo {
+}
