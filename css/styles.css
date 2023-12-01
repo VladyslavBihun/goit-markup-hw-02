@@ -12,7 +12,7 @@ ul {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.32px;
   text-decoration: none;
 }
@@ -32,7 +32,7 @@ ul {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1, 166666666666667;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -43,7 +43,7 @@ ul {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
   text-decoration: none;
 }
@@ -62,7 +62,7 @@ ul {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px; /* 107.143% */
+  line-height: 1, 071428571428571; /* 107.143% */
   letter-spacing: 1.12px;
 }
 
@@ -78,14 +78,14 @@ ul {
 .features-title {
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1, 2; /* 120% */
   letter-spacing: 0.4px;
 }
 
 .features-small-title {
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1, 2; /* 120% */
   letter-spacing: 0.4px;
 }
 
@@ -93,7 +93,7 @@ ul {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -105,7 +105,7 @@ ul {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px; /* 111.111% */
+  line-height: 1, 111111111111111; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -114,7 +114,7 @@ ul {
   text-align: center;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
 
@@ -122,7 +122,7 @@ ul {
   text-align: center;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -130,7 +130,7 @@ ul {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px; /* 111.111% */
+  line-height: 1, 111111111111111; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -139,14 +139,14 @@ ul {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
 
 .portfolio-text {
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -159,7 +159,7 @@ ul {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1, 166666666666667; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -169,7 +169,7 @@ ul {
   color: var(--CLOUD, #f4f4fd);
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
